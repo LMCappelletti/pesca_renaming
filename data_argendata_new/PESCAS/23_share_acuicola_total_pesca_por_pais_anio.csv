@@ -69,7 +69,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1961,ROU,Rumania,37.1134020618557,ROU,Rumania
 1961,SAU,Arabia Saudita,0.0,SAU,Arabia Saudita
 1961,SGP,Singapur,0.0,SGP,Singapur
-1961,SUN,,1.69417040480768,,
+1961,SUN,,1.69417040480768,SUN,Unión Soviética
 1961,SUR,Suriname,0.0,SUR,Suriname
 1961,SWE,Suecia,0.190016510240812,SWE,Suecia
 1961,THA,Tailandia,13.0985648353038,THA,Tailandia
@@ -82,7 +82,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1961,VEN,Venezuela,0.0,VEN,Venezuela
 1961,VNM,Vietnam,8.5041761579347,VNM,Vietnam
 1961,WSM,Samoa,0.0,WSM,Samoa
-1961,YUG,,21.0037322321925,,
+1961,YUG,,21.0037322321925,YUG,Yugoslavia
 1962,ARE,Emiratos Árabes Unidos,0.0,ARE,Emiratos Árabes Unidos
 1962,ARG,Argentina,0.0009870986210232,ARG,Argentina
 1962,AUS,Australia,8.47259553581863,AUS,Australia
@@ -153,7 +153,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1962,ROU,Rumania,41.0179640718563,ROU,Rumania
 1962,SAU,Arabia Saudita,0.0,SAU,Arabia Saudita
 1962,SGP,Singapur,0.0,SGP,Singapur
-1962,SUN,,1.2985751030514,,
+1962,SUN,,1.2985751030514,SUN,Unión Soviética
 1962,SUR,Suriname,0.0,SUR,Suriname
 1962,SWE,Suecia,0.280936999538558,SWE,Suecia
 1962,THA,Tailandia,11.9298895090557,THA,Tailandia
@@ -166,7 +166,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1962,VEN,Venezuela,0.0,VEN,Venezuela
 1962,VNM,Vietnam,7.89753752431282,VNM,Vietnam
 1962,WSM,Samoa,0.0,WSM,Samoa
-1962,YUG,,23.9398084815321,,
+1962,YUG,,23.9398084815321,YUG,Yugoslavia
 1963,ARE,Emiratos Árabes Unidos,0.0,ARE,Emiratos Árabes Unidos
 1963,ARG,Argentina,0.0015317102310584,ARG,Argentina
 1963,AUS,Australia,8.00336412593768,AUS,Australia
@@ -238,7 +238,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1963,ROU,Rumania,37.3961218836565,ROU,Rumania
 1963,SAU,Arabia Saudita,0.0,SAU,Arabia Saudita
 1963,SGP,Singapur,0.0,SGP,Singapur
-1963,SUN,,1.31025253874205,,
+1963,SUN,,1.31025253874205,SUN,Unión Soviética
 1963,SUR,Suriname,0.0,SUR,Suriname
 1963,SWE,Suecia,0.244572989569166,SWE,Suecia
 1963,THA,Tailandia,9.17255543565287,THA,Tailandia
@@ -251,7 +251,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1963,VEN,Venezuela,0.0,VEN,Venezuela
 1963,VNM,Vietnam,7.26259643775598,VNM,Vietnam
 1963,WSM,Samoa,0.0,WSM,Samoa
-1963,YUG,,22.3216847420669,,
+1963,YUG,,22.3216847420669,YUG,Yugoslavia
 1964,ARE,Emiratos Árabes Unidos,0.0,ARE,Emiratos Árabes Unidos
 1964,ARG,Argentina,0.0023723666729929,ARG,Argentina
 1964,AUS,Australia,7.83339185867481,AUS,Australia
@@ -322,7 +322,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1964,ROU,Rumania,41.2058823529412,ROU,Rumania
 1964,SAU,Arabia Saudita,0.0,SAU,Arabia Saudita
 1964,SGP,Singapur,0.0,SGP,Singapur
-1964,SUN,,1.24504240754469,,
+1964,SUN,,1.24504240754469,SUN,Unión Soviética
 1964,SUR,Suriname,0.0,SUR,Suriname
 1964,SWE,Suecia,0.171717198443168,SWE,Suecia
 1964,THA,Tailandia,6.85941869333107,THA,Tailandia
@@ -335,7 +335,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1964,VEN,Venezuela,0.0,VEN,Venezuela
 1964,VNM,Vietnam,7.48484988666327,VNM,Vietnam
 1964,WSM,Samoa,0.0,WSM,Samoa
-1964,YUG,,18.7654766817994,,
+1964,YUG,,18.7654766817994,YUG,Yugoslavia
 1965,ARE,Emiratos Árabes Unidos,0.0,ARE,Emiratos Árabes Unidos
 1965,ARG,Argentina,0.002438964903295,ARG,Argentina
 1965,AUS,Australia,7.80658591975776,AUS,Australia
@@ -406,7 +406,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1965,ROU,Rumania,36.8537292780927,ROU,Rumania
 1965,SAU,Arabia Saudita,0.0,SAU,Arabia Saudita
 1965,SGP,Singapur,0.0,SGP,Singapur
-1965,SUN,,1.10187214947904,,
+1965,SUN,,1.10187214947904,SUN,Unión Soviética
 1965,SUR,Suriname,0.0,SUR,Suriname
 1965,SWE,Suecia,0.151638614422397,SWE,Suecia
 1965,THA,Tailandia,6.68587713240139,THA,Tailandia
@@ -419,7 +419,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1965,VEN,Venezuela,0.0,VEN,Venezuela
 1965,VNM,Vietnam,7.58657384826852,VNM,Vietnam
 1965,WSM,Samoa,0.0,WSM,Samoa
-1965,YUG,,20.8245093886771,,
+1965,YUG,,20.8245093886771,YUG,Yugoslavia
 1966,ARE,Emiratos Árabes Unidos,0.0,ARE,Emiratos Árabes Unidos
 1966,ARG,Argentina,0.0019935806702418,ARG,Argentina
 1966,AUS,Australia,7.06024046348402,AUS,Australia
@@ -491,7 +491,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1966,ROU,Rumania,38.718760999648,ROU,Rumania
 1966,SAU,Arabia Saudita,0.0,SAU,Arabia Saudita
 1966,SGP,Singapur,0.0,SGP,Singapur
-1966,SUN,,1.17222420628054,,
+1966,SUN,,1.17222420628054,SUN,Unión Soviética
 1966,SUR,Suriname,0.0,SUR,Suriname
 1966,SWE,Suecia,0.24269421776347,SWE,Suecia
 1966,THA,Tailandia,7.17360114777618,THA,Tailandia
@@ -504,7 +504,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1966,VEN,Venezuela,0.0,VEN,Venezuela
 1966,VNM,Vietnam,7.93497222100063,VNM,Vietnam
 1966,WSM,Samoa,0.0,WSM,Samoa
-1966,YUG,,24.5204409339467,,
+1966,YUG,,24.5204409339467,YUG,Yugoslavia
 1967,ARE,Emiratos Árabes Unidos,0.0,ARE,Emiratos Árabes Unidos
 1967,ARG,Argentina,0.0033213212215819,ARG,Argentina
 1967,AUS,Australia,7.27497408913338,AUS,Australia
@@ -576,7 +576,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1967,ROU,Rumania,36.8570604949965,ROU,Rumania
 1967,SAU,Arabia Saudita,0.0,SAU,Arabia Saudita
 1967,SGP,Singapur,0.0,SGP,Singapur
-1967,SUN,,1.18897862525432,,
+1967,SUN,,1.18897862525432,SUN,Unión Soviética
 1967,SUR,Suriname,0.0,SUR,Suriname
 1967,SWE,Suecia,0.174681433148508,SWE,Suecia
 1967,THA,Tailandia,6.35838888463208,THA,Tailandia
@@ -589,7 +589,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1967,VEN,Venezuela,0.0018599806562011,VEN,Venezuela
 1967,VNM,Vietnam,7.97939533447492,VNM,Vietnam
 1967,WSM,Samoa,0.0,WSM,Samoa
-1967,YUG,,21.8647460635202,,
+1967,YUG,,21.8647460635202,YUG,Yugoslavia
 1968,ARE,Emiratos Árabes Unidos,0.0,ARE,Emiratos Árabes Unidos
 1968,ARG,Argentina,0.0049298173278597,ARG,Argentina
 1968,AUS,Australia,6.75706112887968,AUS,Australia
@@ -662,7 +662,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1968,ROU,Rumania,35.2147119240927,ROU,Rumania
 1968,SAU,Arabia Saudita,0.0,SAU,Arabia Saudita
 1968,SGP,Singapur,0.0,SGP,Singapur
-1968,SUN,,1.12173341389833,,
+1968,SUN,,1.12173341389833,SUN,Unión Soviética
 1968,SUR,Suriname,0.0,SUR,Suriname
 1968,SWE,Suecia,0.193995844289345,SWE,Suecia
 1968,SYR,Siria,0.0555247084952804,SYR,Siria
@@ -676,7 +676,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1968,VEN,Venezuela,0.0039649498433844,VEN,Venezuela
 1968,VNM,Vietnam,8.36974081618319,VNM,Vietnam
 1968,WSM,Samoa,0.0,WSM,Samoa
-1968,YUG,,21.2340360055393,,
+1968,YUG,,21.2340360055393,YUG,Yugoslavia
 1969,AFG,Afganistán,13.0434782608696,AFG,Afganistán
 1969,ARE,Emiratos Árabes Unidos,0.0,ARE,Emiratos Árabes Unidos
 1969,ARG,Argentina,0.0073959026699208,ARG,Argentina
@@ -751,7 +751,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1969,ROU,Rumania,33.4804443768072,ROU,Rumania
 1969,SAU,Arabia Saudita,0.0,SAU,Arabia Saudita
 1969,SGP,Singapur,0.0,SGP,Singapur
-1969,SUN,,1.00008148276046,,
+1969,SUN,,1.00008148276046,SUN,Unión Soviética
 1969,SUR,Suriname,0.0,SUR,Suriname
 1969,SWE,Suecia,0.201554638350216,SWE,Suecia
 1969,SYR,Siria,0.221729490022173,SYR,Siria
@@ -765,7 +765,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1969,VEN,Venezuela,0.0111844312716698,VEN,Venezuela
 1969,VNM,Vietnam,8.15409729023833,VNM,Vietnam
 1969,WSM,Samoa,0.0,WSM,Samoa
-1969,YUG,,27.8843116906556,,
+1969,YUG,,27.8843116906556,YUG,Yugoslavia
 1970,AFG,Afganistán,13.0434782608696,AFG,Afganistán
 1970,ALB,Albania,0.0,ALB,Albania
 1970,ARE,Emiratos Árabes Unidos,0.0,ARE,Emiratos Árabes Unidos
@@ -870,7 +870,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1970,SEN,Senegal,0.0826002560607938,SEN,Senegal
 1970,SGP,Singapur,0.0546149645002731,SGP,Singapur
 1970,SLE,Sierra Leona,0.0,SLE,Sierra Leona
-1970,SUN,,1.03251951664984,,
+1970,SUN,,1.03251951664984,SUN,Unión Soviética
 1970,SUR,Suriname,0.0,SUR,Suriname
 1970,SWE,Suecia,0.13040043070598,SWE,Suecia
 1970,SYR,Siria,0.470588235294118,SYR,Siria
@@ -886,7 +886,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1970,VNM,Vietnam,10.5744336569579,VNM,Vietnam
 1970,VUT,Vanuatu,0.0,VUT,Vanuatu
 1970,WSM,Samoa,0.0,WSM,Samoa
-1970,YUG,,27.4753646886699,,
+1970,YUG,,27.4753646886699,YUG,Yugoslavia
 1970,ZAF,Sudáfrica,0.0,ZAF,Sudáfrica
 1970,ZMB,Zambia,0.0,ZMB,Zambia
 1970,ZWE,Zimbabwe,0.0,ZWE,Zimbabwe
@@ -994,7 +994,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1971,SEN,Senegal,0.0743041417128591,SEN,Senegal
 1971,SGP,Singapur,0.196979645436638,SGP,Singapur
 1971,SLE,Sierra Leona,0.0,SLE,Sierra Leona
-1971,SUN,,1.0741239317058,,
+1971,SUN,,1.0741239317058,SUN,Unión Soviética
 1971,SUR,Suriname,0.0,SUR,Suriname
 1971,SWE,Suecia,0.133656663459487,SWE,Suecia
 1971,SYR,Siria,0.476190476190476,SYR,Siria
@@ -1010,7 +1010,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1971,VNM,Vietnam,9.93171582158942,VNM,Vietnam
 1971,VUT,Vanuatu,0.0,VUT,Vanuatu
 1971,WSM,Samoa,0.0,WSM,Samoa
-1971,YUG,,24.8511545578888,,
+1971,YUG,,24.8511545578888,YUG,Yugoslavia
 1971,ZAF,Sudáfrica,0.0,ZAF,Sudáfrica
 1971,ZMB,Zambia,0.0,ZMB,Zambia
 1971,ZWE,Zimbabwe,0.0,ZWE,Zimbabwe
@@ -1119,7 +1119,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1972,SEN,Senegal,0.130685642221917,SEN,Senegal
 1972,SGP,Singapur,0.857959961868446,SGP,Singapur
 1972,SLE,Sierra Leona,0.0,SLE,Sierra Leona
-1972,SUN,,1.18310139692832,,
+1972,SUN,,1.18310139692832,SUN,Unión Soviética
 1972,SUR,Suriname,0.0,SUR,Suriname
 1972,SWE,Suecia,0.11174770665311,SWE,Suecia
 1972,SYR,Siria,0.9375,SYR,Siria
@@ -1135,7 +1135,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1972,VNM,Vietnam,9.14964675658317,VNM,Vietnam
 1972,VUT,Vanuatu,0.0,VUT,Vanuatu
 1972,WSM,Samoa,0.0,WSM,Samoa
-1972,YUG,,26.4115508885299,,
+1972,YUG,,26.4115508885299,YUG,Yugoslavia
 1972,ZAF,Sudáfrica,0.0,ZAF,Sudáfrica
 1972,ZMB,Zambia,0.0,ZMB,Zambia
 1972,ZWE,Zimbabwe,0.0666222518321119,ZWE,Zimbabwe
@@ -1244,7 +1244,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1973,SEN,Senegal,0.103604933666941,SEN,Senegal
 1973,SGP,Singapur,0.751072961373391,SGP,Singapur
 1973,SLE,Sierra Leona,0.0,SLE,Sierra Leona
-1973,SUN,,1.1629809695929,,
+1973,SUN,,1.1629809695929,SUN,Unión Soviética
 1973,SUR,Suriname,0.0,SUR,Suriname
 1973,SWE,Suecia,0.130175850792168,SWE,Suecia
 1973,SYR,Siria,1.48698884758364,SYR,Siria
@@ -1260,7 +1260,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1973,VNM,Vietnam,9.11826108313889,VNM,Vietnam
 1973,VUT,Vanuatu,0.0,VUT,Vanuatu
 1973,WSM,Samoa,0.0,WSM,Samoa
-1973,YUG,,27.7629198458271,,
+1973,YUG,,27.7629198458271,YUG,Yugoslavia
 1973,ZAF,Sudáfrica,0.0,ZAF,Sudáfrica
 1973,ZMB,Zambia,0.0,ZMB,Zambia
 1973,ZWE,Zimbabwe,0.398406374501992,ZWE,Zimbabwe
@@ -1369,7 +1369,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1974,SEN,Senegal,0.0449318686155483,SEN,Senegal
 1974,SGP,Singapur,0.207511931936086,SGP,Singapur
 1974,SLE,Sierra Leona,0.0,SLE,Sierra Leona
-1974,SUN,,1.14716940426513,,
+1974,SUN,,1.14716940426513,SUN,Unión Soviética
 1974,SUR,Suriname,0.0,SUR,Suriname
 1974,SWE,Suecia,0.190717135350783,SWE,Suecia
 1974,SYR,Siria,1.21212121212121,SYR,Siria
@@ -1385,7 +1385,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1974,VNM,Vietnam,13.4811452513966,VNM,Vietnam
 1974,VUT,Vanuatu,0.0,VUT,Vanuatu
 1974,WSM,Samoa,0.0,WSM,Samoa
-1974,YUG,,32.0068345918536,,
+1974,YUG,,32.0068345918536,YUG,Yugoslavia
 1974,ZAF,Sudáfrica,0.0005824183433304,ZAF,Sudáfrica
 1974,ZMB,Zambia,0.0,ZMB,Zambia
 1974,ZWE,Zimbabwe,0.707623029913155,ZWE,Zimbabwe
@@ -1496,7 +1496,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1975,SEN,Senegal,0.0291290416545296,SEN,Senegal
 1975,SGP,Singapur,0.215933628821457,SGP,Singapur
 1975,SLE,Sierra Leona,0.0,SLE,Sierra Leona
-1975,SUN,,1.29651114521473,,
+1975,SUN,,1.29651114521473,SUN,Unión Soviética
 1975,SUR,Suriname,0.0,SUR,Suriname
 1975,SWE,Suecia,0.202622514255941,SWE,Suecia
 1975,SYR,Siria,1.49925037481259,SYR,Siria
@@ -1512,7 +1512,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1975,VNM,Vietnam,14.701901975128,VNM,Vietnam
 1975,VUT,Vanuatu,0.0,VUT,Vanuatu
 1975,WSM,Samoa,0.0,WSM,Samoa
-1975,YUG,,29.8522167487685,,
+1975,YUG,,29.8522167487685,YUG,Yugoslavia
 1975,ZAF,Sudáfrica,0.0006041533529168,ZAF,Sudáfrica
 1975,ZMB,Zambia,0.0,ZMB,Zambia
 1975,ZWE,Zimbabwe,0.841248303934871,ZWE,Zimbabwe
@@ -1625,7 +1625,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1976,SEN,Senegal,0.0372134905794738,SEN,Senegal
 1976,SGP,Singapur,0.648327678138633,SGP,Singapur
 1976,SLE,Sierra Leona,0.0,SLE,Sierra Leona
-1976,SUN,,1.25523285998684,,
+1976,SUN,,1.25523285998684,SUN,Unión Soviética
 1976,SUR,Suriname,0.0,SUR,Suriname
 1976,SWE,Suecia,0.238189177735888,SWE,Suecia
 1976,SYR,Siria,2.11672210462655,SYR,Siria
@@ -1641,7 +1641,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1976,VNM,Vietnam,13.6836935166994,VNM,Vietnam
 1976,VUT,Vanuatu,0.0,VUT,Vanuatu
 1976,WSM,Samoa,0.0,WSM,Samoa
-1976,YUG,,26.2038604808669,,
+1976,YUG,,26.2038604808669,YUG,Yugoslavia
 1976,ZAF,Sudáfrica,0.0007071157847099,ZAF,Sudáfrica
 1976,ZMB,Zambia,0.0,ZMB,Zambia
 1976,ZWE,Zimbabwe,0.879120879120879,ZWE,Zimbabwe
@@ -1755,7 +1755,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1977,SEN,Senegal,0.0673754937793037,SEN,Senegal
 1977,SGP,Singapur,0.343075806558026,SGP,Singapur
 1977,SLE,Sierra Leona,0.0,SLE,Sierra Leona
-1977,SUN,,1.44020905894815,,
+1977,SUN,,1.44020905894815,SUN,Unión Soviética
 1977,SUR,Suriname,0.0,SUR,Suriname
 1977,SWE,Suecia,0.29967626214017,SWE,Suecia
 1977,SYR,Siria,3.31766657450926,SYR,Siria
@@ -1771,7 +1771,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1977,VNM,Vietnam,14.7792119565217,VNM,Vietnam
 1977,VUT,Vanuatu,0.0,VUT,Vanuatu
 1977,WSM,Samoa,0.0,WSM,Samoa
-1977,YUG,,27.2740660743213,,
+1977,YUG,,27.2740660743213,YUG,Yugoslavia
 1977,ZAF,Sudáfrica,0.0010928911981275,ZAF,Sudáfrica
 1977,ZMB,Zambia,0.0055827455942832,ZMB,Zambia
 1977,ZWE,Zimbabwe,0.838398658562146,ZWE,Zimbabwe
@@ -1886,7 +1886,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1978,SEN,Senegal,0.05560101076309,SEN,Senegal
 1978,SGP,Singapur,0.592373195112921,SGP,Singapur
 1978,SLE,Sierra Leona,0.0,SLE,Sierra Leona
-1978,SUN,,1.51490080648469,,
+1978,SUN,,1.51490080648469,SUN,Unión Soviética
 1978,SUR,Suriname,0.0,SUR,Suriname
 1978,SWE,Suecia,0.344870323369814,SWE,Suecia
 1978,SYR,Siria,4.34087882822903,SYR,Siria
@@ -1902,7 +1902,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1978,VNM,Vietnam,15.541095890411,VNM,Vietnam
 1978,VUT,Vanuatu,0.0,VUT,Vanuatu
 1978,WSM,Samoa,0.0,WSM,Samoa
-1978,YUG,,25.3004417562582,,
+1978,YUG,,25.3004417562582,YUG,Yugoslavia
 1978,ZAF,Sudáfrica,0.0012580051811842,ZAF,Sudáfrica
 1978,ZMB,Zambia,0.0168148475103516,ZMB,Zambia
 1978,ZWE,Zimbabwe,0.514668039114771,ZWE,Zimbabwe
@@ -2017,7 +2017,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1979,SEN,Senegal,0.040845683232847,SEN,Senegal
 1979,SGP,Singapur,0.606917683106476,SGP,Singapur
 1979,SLE,Sierra Leona,0.0017363221224801,SLE,Sierra Leona
-1979,SUN,,1.71218631753507,,
+1979,SUN,,1.71218631753507,SUN,Unión Soviética
 1979,SUR,Suriname,0.0,SUR,Suriname
 1979,SWE,Suecia,0.363770294951615,SWE,Suecia
 1979,SYR,Siria,6.01150026136958,SYR,Siria
@@ -2033,7 +2033,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1979,VNM,Vietnam,15.7554076539101,VNM,Vietnam
 1979,VUT,Vanuatu,0.0,VUT,Vanuatu
 1979,WSM,Samoa,0.0,WSM,Samoa
-1979,YUG,,24.6134020618557,,
+1979,YUG,,24.6134020618557,YUG,Yugoslavia
 1979,ZAF,Sudáfrica,0.0012883289361439,ZAF,Sudáfrica
 1979,ZMB,Zambia,0.0302871219157614,ZMB,Zambia
 1979,ZWE,Zimbabwe,0.759570589426777,ZWE,Zimbabwe
@@ -2148,7 +2148,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1980,SEN,Senegal,0.0640777534081624,SEN,Senegal
 1980,SGP,Singapur,0.565850018654396,SGP,Singapur
 1980,SLE,Sierra Leona,0.0040824658093488,SLE,Sierra Leona
-1980,SUN,,1.61818449752505,,
+1980,SUN,,1.61818449752505,SUN,Unión Soviética
 1980,SUR,Suriname,0.0,SUR,Suriname
 1980,SWE,Suecia,0.352010140632762,SWE,Suecia
 1980,SYR,Siria,12.8179299924452,SYR,Siria
@@ -2164,7 +2164,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1980,VNM,Vietnam,17.7179001536647,VNM,Vietnam
 1980,VUT,Vanuatu,0.0,VUT,Vanuatu
 1980,WSM,Samoa,0.0,WSM,Samoa
-1980,YUG,,23.6988101944316,,
+1980,YUG,,23.6988101944316,YUG,Yugoslavia
 1980,ZAF,Sudáfrica,0.0013939957386622,ZAF,Sudáfrica
 1980,ZMB,Zambia,0.0529256101146722,ZMB,Zambia
 1980,ZWE,Zimbabwe,0.564419024683925,ZWE,Zimbabwe
@@ -2281,7 +2281,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1981,SEN,Senegal,0.0598549397929723,SEN,Senegal
 1981,SGP,Singapur,1.71155143856205,SGP,Singapur
 1981,SLE,Sierra Leona,0.004011070554731,SLE,Sierra Leona
-1981,SUN,,1.88753508895652,,
+1981,SUN,,1.88753508895652,SUN,Unión Soviética
 1981,SUR,Suriname,0.0,SUR,Suriname
 1981,SWE,Suecia,1.01311570970563,SWE,Suecia
 1981,SYR,Siria,21.2610734757686,SYR,Siria
@@ -2297,7 +2297,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1981,VNM,Vietnam,17.3634225729511,VNM,Vietnam
 1981,VUT,Vanuatu,0.0,VUT,Vanuatu
 1981,WSM,Samoa,0.0,WSM,Samoa
-1981,YUG,,22.561790247161,,
+1981,YUG,,22.561790247161,YUG,Yugoslavia
 1981,ZAF,Sudáfrica,0.0011603240890664,ZAF,Sudáfrica
 1981,ZMB,Zambia,0.113642103136522,ZMB,Zambia
 1981,ZWE,Zimbabwe,0.462512171372931,ZWE,Zimbabwe
@@ -2415,7 +2415,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1982,SEN,Senegal,0.0534549577317854,SEN,Senegal
 1982,SGP,Singapur,5.57370557370557,SGP,Singapur
 1982,SLE,Sierra Leona,0.0057761176787708,SLE,Sierra Leona
-1982,SUN,,2.03641355165442,,
+1982,SUN,,2.03641355165442,SUN,Unión Soviética
 1982,SUR,Suriname,0.0,SUR,Suriname
 1982,SWE,Suecia,1.56269543464665,SWE,Suecia
 1982,SYR,Siria,27.6150627615063,SYR,Siria
@@ -2432,7 +2432,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1982,VNM,Vietnam,16.4253527592539,VNM,Vietnam
 1982,VUT,Vanuatu,0.0,VUT,Vanuatu
 1982,WSM,Samoa,0.0,WSM,Samoa
-1982,YUG,,22.9312616011017,,
+1982,YUG,,22.9312616011017,YUG,Yugoslavia
 1982,ZAF,Sudáfrica,0.0010757882031217,ZAF,Sudáfrica
 1982,ZMB,Zambia,0.128845224673861,ZMB,Zambia
 1982,ZWE,Zimbabwe,0.422495004282044,ZWE,Zimbabwe
@@ -2550,7 +2550,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1983,SEN,Senegal,0.0,SEN,Senegal
 1983,SGP,Singapur,7.20938520366393,SGP,Singapur
 1983,SLE,Sierra Leona,0.0079856258734278,SLE,Sierra Leona
-1983,SUN,,2.22592543686076,,
+1983,SUN,,2.22592543686076,SUN,Unión Soviética
 1983,SUR,Suriname,0.0,SUR,Suriname
 1983,SWE,Suecia,1.23301122968703,SWE,Suecia
 1983,SYR,Siria,31.1681905833983,SYR,Siria
@@ -2567,7 +2567,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1983,VNM,Vietnam,15.0262880900311,VNM,Vietnam
 1983,VUT,Vanuatu,0.0,VUT,Vanuatu
 1983,WSM,Samoa,0.0,WSM,Samoa
-1983,YUG,,19.1407374044464,,
+1983,YUG,,19.1407374044464,YUG,Yugoslavia
 1983,ZAF,Sudáfrica,0.0006026692219841,ZAF,Sudáfrica
 1983,ZMB,Zambia,0.371480589219707,ZMB,Zambia
 1983,ZWE,Zimbabwe,0.962315433776537,ZWE,Zimbabwe
@@ -2702,7 +2702,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1984,SLB,Islas Salomón,0.0573421045727891,SLB,Islas Salomón
 1984,SLE,Sierra Leona,0.0135464643727987,SLE,Sierra Leona
 1984,SLV,El Salvador,0.0820411846747067,SLV,El Salvador
-1984,SUN,,2.49963261628041,,
+1984,SUN,,2.49963261628041,SUN,Unión Soviética
 1984,SUR,Suriname,0.0,SUR,Suriname
 1984,SWE,Suecia,1.18892425114159,SWE,Suecia
 1984,SWZ,Eswatini,8.88888888888889,SWZ,Eswatini
@@ -2722,7 +2722,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1984,VNM,Vietnam,15.3092467850582,VNM,Vietnam
 1984,VUT,Vanuatu,0.0,VUT,Vanuatu
 1984,WSM,Samoa,0.0,WSM,Samoa
-1984,YUG,,15.7796794349362,,
+1984,YUG,,15.7796794349362,YUG,Yugoslavia
 1984,ZAF,Sudáfrica,0.0465968986326484,ZAF,Sudáfrica
 1984,ZMB,Zambia,0.515972380301996,ZMB,Zambia
 1984,ZWE,Zimbabwe,0.840694486749924,ZWE,Zimbabwe
@@ -2857,7 +2857,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1985,SLB,Islas Salomón,0.0,SLB,Islas Salomón
 1985,SLE,Sierra Leona,0.0171657448025939,SLE,Sierra Leona
 1985,SLV,El Salvador,4.19927941359175,SLV,El Salvador
-1985,SUN,,2.70093133562718,,
+1985,SUN,,2.70093133562718,SUN,Unión Soviética
 1985,SUR,Suriname,0.0,SUR,Suriname
 1985,SWE,Suecia,1.28510471455326,SWE,Suecia
 1985,SWZ,Eswatini,13.3333333333333,SWZ,Eswatini
@@ -2877,7 +2877,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1985,VNM,Vietnam,15.9973317191882,VNM,Vietnam
 1985,VUT,Vanuatu,0.0,VUT,Vanuatu
 1985,WSM,Samoa,0.0,WSM,Samoa
-1985,YUG,,14.7251813086098,,
+1985,YUG,,14.7251813086098,YUG,Yugoslavia
 1985,ZAF,Sudáfrica,0.0723762718805827,ZAF,Sudáfrica
 1985,ZMB,Zambia,0.53098898526981,ZMB,Zambia
 1985,ZWE,Zimbabwe,0.804597701149425,ZWE,Zimbabwe
@@ -3013,7 +3013,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1986,SLB,Islas Salomón,0.0,SLB,Islas Salomón
 1986,SLE,Sierra Leona,0.0268060581691462,SLE,Sierra Leona
 1986,SLV,El Salvador,3.71710848087646,SLV,El Salvador
-1986,SUN,,2.80116063805653,,
+1986,SUN,,2.80116063805653,SUN,Unión Soviética
 1986,SUR,Suriname,0.0,SUR,Suriname
 1986,SWE,Suecia,2.01831624312676,SWE,Suecia
 1986,SWZ,Eswatini,18.0,SWZ,Eswatini
@@ -3033,7 +3033,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1986,VNM,Vietnam,15.3493463981443,VNM,Vietnam
 1986,VUT,Vanuatu,0.0,VUT,Vanuatu
 1986,WSM,Samoa,0.0,WSM,Samoa
-1986,YUG,,14.9615908331835,,
+1986,YUG,,14.9615908331835,YUG,Yugoslavia
 1986,ZAF,Sudáfrica,0.0923745889096637,ZAF,Sudáfrica
 1986,ZMB,Zambia,1.22092614714356,ZMB,Zambia
 1986,ZWE,Zimbabwe,0.791473195441114,ZWE,Zimbabwe
@@ -3171,7 +3171,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1987,SLB,Islas Salomón,0.0137734046299851,SLB,Islas Salomón
 1987,SLE,Sierra Leona,0.0345330366050188,SLE,Sierra Leona
 1987,SLV,El Salvador,3.66861707067893,SLV,El Salvador
-1987,SUN,,3.01942295422418,,
+1987,SUN,,3.01942295422418,SUN,Unión Soviética
 1987,SUR,Suriname,0.0,SUR,Suriname
 1987,SWE,Suecia,3.39879400640772,SWE,Suecia
 1987,SWZ,Eswatini,19.0,SWZ,Eswatini
@@ -3192,7 +3192,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1987,VNM,Vietnam,16.3115074798619,VNM,Vietnam
 1987,VUT,Vanuatu,0.0,VUT,Vanuatu
 1987,WSM,Samoa,0.0,WSM,Samoa
-1987,YUG,,14.1141082293922,,
+1987,YUG,,14.1141082293922,YUG,Yugoslavia
 1987,ZAF,Sudáfrica,0.07468712839576,ZAF,Sudáfrica
 1987,ZMB,Zambia,1.59656978956303,ZMB,Zambia
 1987,ZWE,Zimbabwe,0.534539473684211,ZWE,Zimbabwe
@@ -3332,7 +3332,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1988,SLB,Islas Salomón,0.0096325989960019,SLB,Islas Salomón
 1988,SLE,Sierra Leona,0.0383193148506505,SLE,Sierra Leona
 1988,SLV,El Salvador,6.11949203102361,SLV,El Salvador
-1988,SUN,,2.7419503139387,,
+1988,SUN,,2.7419503139387,SUN,Unión Soviética
 1988,SUR,Suriname,0.0,SUR,Suriname
 1988,SWE,Suecia,3.30161993322656,SWE,Suecia
 1988,SWZ,Eswatini,18.1818181818182,SWZ,Eswatini
@@ -3353,7 +3353,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1988,VNM,Vietnam,17.4362989854616,VNM,Vietnam
 1988,VUT,Vanuatu,0.0,VUT,Vanuatu
 1988,WSM,Samoa,0.0,WSM,Samoa
-1988,YUG,,16.4463791495336,,
+1988,YUG,,16.4463791495336,YUG,Yugoslavia
 1988,ZAF,Sudáfrica,0.102863892232132,ZAF,Sudáfrica
 1988,ZMB,Zambia,1.6973230537017,ZMB,Zambia
 1988,ZWE,Zimbabwe,0.501184618188445,ZWE,Zimbabwe
@@ -3493,7 +3493,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1989,SLB,Islas Salomón,0.0059821982939608,SLB,Islas Salomón
 1989,SLE,Sierra Leona,0.038367832409308,SLE,Sierra Leona
 1989,SLV,El Salvador,6.68421547428786,SLV,El Salvador
-1989,SUN,,3.07189033033103,,
+1989,SUN,,3.07189033033103,SUN,Unión Soviética
 1989,SUR,Suriname,0.0,SUR,Suriname
 1989,SWE,Suecia,3.07032177468789,SWE,Suecia
 1989,SWZ,Eswatini,36.3636363636364,SWZ,Eswatini
@@ -3516,7 +3516,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1989,VNM,Vietnam,17.2698989150092,VNM,Vietnam
 1989,VUT,Vanuatu,0.0,VUT,Vanuatu
 1989,WSM,Samoa,0.0,WSM,Samoa
-1989,YUG,,16.4994698185169,,
+1989,YUG,,16.4994698185169,YUG,Yugoslavia
 1989,ZAF,Sudáfrica,0.224412116271256,ZAF,Sudáfrica
 1989,ZMB,Zambia,1.58802788469303,ZMB,Zambia
 1989,ZWE,Zimbabwe,0.449349846940208,ZWE,Zimbabwe
@@ -3559,7 +3559,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1990,DNK,Dinamarca,2.76388564922255,DNK,Dinamarca
 1990,DOM,Rep. Dominicana,1.41592920353982,DOM,Rep. Dominicana
 1990,DZA,Argelia,0.449211288726042,DZA,Argelia
-1990,EAZ,,100.0,,
+1990,EAZ,,100.0,EAZ,Zanzibar
 1990,ECU,Ecuador,21.2004593023732,ECU,Ecuador
 1990,EGY,Egipto,19.7845036938572,EGY,Egipto
 1990,ESP,España,15.2634256662496,ESP,España
@@ -3657,7 +3657,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1990,SLB,Islas Salomón,0.0120745665339285,SLB,Islas Salomón
 1990,SLE,Sierra Leona,0.0353631798571328,SLE,Sierra Leona
 1990,SLV,El Salvador,6.90031662845289,SLV,El Salvador
-1990,SUN,,3.92257500871914,,
+1990,SUN,,3.92257500871914,SUN,Unión Soviética
 1990,SUR,Suriname,0.0,SUR,Suriname
 1990,SWE,Suecia,3.50629087918591,SWE,Suecia
 1990,SWZ,Eswatini,40.9090909090909,SWZ,Eswatini
@@ -3680,7 +3680,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1990,VNM,Vietnam,17.2196505200127,VNM,Vietnam
 1990,VUT,Vanuatu,0.0,VUT,Vanuatu
 1990,WSM,Samoa,0.0,WSM,Samoa
-1990,YUG,,19.7305766219248,,
+1990,YUG,,19.7305766219248,YUG,Yugoslavia
 1990,ZAF,Sudáfrica,0.65252295027786,ZAF,Sudáfrica
 1990,ZMB,Zambia,2.0938503900872,ZMB,Zambia
 1990,ZWE,Zimbabwe,0.362327202233966,ZWE,Zimbabwe
@@ -3724,7 +3724,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1991,DNK,Dinamarca,2.34746862829944,DNK,Dinamarca
 1991,DOM,Rep. Dominicana,3.52354761086284,DOM,Rep. Dominicana
 1991,DZA,Argelia,0.18784751790813,DZA,Argelia
-1991,EAZ,,100.0,,
+1991,EAZ,,100.0,EAZ,Zanzibar
 1991,ECU,Ecuador,24.4807731852766,ECU,Ecuador
 1991,EGY,Egipto,17.805911318661,EGY,Egipto
 1991,ESP,España,17.2574685185116,ESP,España
@@ -3822,7 +3822,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1991,SLB,Islas Salomón,0.0095220295088646,SLB,Islas Salomón
 1991,SLE,Sierra Leona,0.0304131628168671,SLE,Sierra Leona
 1991,SLV,El Salvador,1.03293016685795,SLV,El Salvador
-1991,SUN,,2.67741679710144,,
+1991,SUN,,2.67741679710144,SUN,Unión Soviética
 1991,SUR,Suriname,0.0,SUR,Suriname
 1991,SWE,Suecia,3.25803081744581,SWE,Suecia
 1991,SWZ,Eswatini,42.8571428571429,SWZ,Eswatini
@@ -3845,7 +3845,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1991,VNM,Vietnam,16.824296869214,VNM,Vietnam
 1991,VUT,Vanuatu,0.0,VUT,Vanuatu
 1991,WSM,Samoa,0.0,WSM,Samoa
-1991,YUG,,18.3461057666178,,
+1991,YUG,,18.3461057666178,YUG,Yugoslavia
 1991,ZAF,Sudáfrica,0.944299483362573,ZAF,Sudáfrica
 1991,ZMB,Zambia,3.54961557806999,ZMB,Zambia
 1991,ZWE,Zimbabwe,0.234069312465064,ZWE,Zimbabwe
@@ -3892,7 +3892,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1992,DNK,Dinamarca,2.16622187952193,DNK,Dinamarca
 1992,DOM,Rep. Dominicana,5.96588829514677,DOM,Rep. Dominicana
 1992,DZA,Argelia,0.154054277870363,DZA,Argelia
-1992,EAZ,,100.0,,
+1992,EAZ,,100.0,EAZ,Zanzibar
 1992,ECU,Ecuador,33.9709645397091,ECU,Ecuador
 1992,EGY,Egipto,18.4509357291202,EGY,Egipto
 1992,ESP,España,13.5577518795004,ESP,España
@@ -4028,7 +4028,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1992,VNM,Vietnam,16.6088379894064,VNM,Vietnam
 1992,VUT,Vanuatu,0.0,VUT,Vanuatu
 1992,WSM,Samoa,0.0,WSM,Samoa
-1992,YUG,,,,
+1992,YUG,,,YUG,Yugoslavia
 1992,ZAF,Sudáfrica,0.598341166095489,ZAF,Sudáfrica
 1992,ZMB,Zambia,4.93926044586838,ZMB,Zambia
 1992,ZWE,Zimbabwe,0.226769056331495,ZWE,Zimbabwe
@@ -4076,7 +4076,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1993,DNK,Dinamarca,2.39611402509652,DNK,Dinamarca
 1993,DOM,Rep. Dominicana,9.48324415657561,DOM,Rep. Dominicana
 1993,DZA,Argelia,0.293542157658734,DZA,Argelia
-1993,EAZ,,100.0,,
+1993,EAZ,,100.0,EAZ,Zanzibar
 1993,ECU,Ecuador,23.2080855306129,ECU,Ecuador
 1993,EGY,Egipto,14.4644386930655,EGY,Egipto
 1993,ESP,España,10.4483466730976,ESP,España
@@ -4213,7 +4213,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1993,VNM,Vietnam,16.7881028812609,VNM,Vietnam
 1993,VUT,Vanuatu,0.0,VUT,Vanuatu
 1993,WSM,Samoa,0.0,WSM,Samoa
-1993,YUG,,,,
+1993,YUG,,,YUG,Yugoslavia
 1993,ZAF,Sudáfrica,0.678153049074602,ZAF,Sudáfrica
 1993,ZMB,Zambia,5.88733748166135,ZMB,Zambia
 1993,ZWE,Zimbabwe,0.172251593327238,ZWE,Zimbabwe
@@ -4262,7 +4262,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1994,DNK,Dinamarca,2.23319416220595,DNK,Dinamarca
 1994,DOM,Rep. Dominicana,14.8504512568061,DOM,Rep. Dominicana
 1994,DZA,Argelia,0.286453073754516,DZA,Argelia
-1994,EAZ,,100.0,,
+1994,EAZ,,100.0,EAZ,Zanzibar
 1994,ECU,Ecuador,21.2350233929418,ECU,Ecuador
 1994,EGY,Egipto,15.3727031112593,EGY,Egipto
 1994,ESP,España,14.09518612285,ESP,España
@@ -4399,7 +4399,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1994,VNM,Vietnam,25.1157487665995,VNM,Vietnam
 1994,VUT,Vanuatu,0.0,VUT,Vanuatu
 1994,WSM,Samoa,0.0,WSM,Samoa
-1994,YUG,,,,
+1994,YUG,,,YUG,Yugoslavia
 1994,ZAF,Sudáfrica,0.793852793989016,ZAF,Sudáfrica
 1994,ZMB,Zambia,5.61714158172755,ZMB,Zambia
 1994,ZWE,Zimbabwe,0.218047635021805,ZWE,Zimbabwe
@@ -4448,7 +4448,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1995,DNK,Dinamarca,2.18113941006347,DNK,Dinamarca
 1995,DOM,Rep. Dominicana,10.9860557768924,DOM,Rep. Dominicana
 1995,DZA,Argelia,0.347301746844961,DZA,Argelia
-1995,EAZ,,100.0,,
+1995,EAZ,,100.0,EAZ,Zanzibar
 1995,ECU,Ecuador,17.2776231658699,ECU,Ecuador
 1995,EGY,Egipto,17.6399138821443,EGY,Egipto
 1995,ESP,España,15.8940884598008,ESP,España
@@ -4585,7 +4585,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1995,VNM,Vietnam,26.39531128732,VNM,Vietnam
 1995,VUT,Vanuatu,0.0,VUT,Vanuatu
 1995,WSM,Samoa,0.0,WSM,Samoa
-1995,YUG,,,,
+1995,YUG,,,YUG,Yugoslavia
 1995,ZAF,Sudáfrica,0.587472685848565,ZAF,Sudáfrica
 1995,ZMB,Zambia,4.73044244299939,ZMB,Zambia
 1995,ZWE,Zimbabwe,0.266889667811327,ZWE,Zimbabwe
@@ -4634,7 +4634,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1996,DNK,Dinamarca,2.43257388412259,DNK,Dinamarca
 1996,DOM,Rep. Dominicana,5.76627932470949,DOM,Rep. Dominicana
 1996,DZA,Argelia,0.391166916511374,DZA,Argelia
-1996,EAZ,,100.0,,
+1996,EAZ,,100.0,EAZ,Zanzibar
 1996,ECU,Ecuador,13.4112783825663,ECU,Ecuador
 1996,EGY,Egipto,21.1174301229643,EGY,Egipto
 1996,ESP,España,16.4160458235285,ESP,España
@@ -4771,7 +4771,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1996,VNM,Vietnam,20.1241308360946,VNM,Vietnam
 1996,VUT,Vanuatu,0.0,VUT,Vanuatu
 1996,WSM,Samoa,0.0,WSM,Samoa
-1996,YUG,,,,
+1996,YUG,,,YUG,Yugoslavia
 1996,ZAF,Sudáfrica,0.661364918465317,ZAF,Sudáfrica
 1996,ZMB,Zambia,6.48829522423385,ZMB,Zambia
 1996,ZWE,Zimbabwe,0.309924888791658,ZWE,Zimbabwe
@@ -4820,7 +4820,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1997,DNK,Dinamarca,2.12675906177657,DNK,Dinamarca
 1997,DOM,Rep. Dominicana,4.45043386799895,DOM,Rep. Dominicana
 1997,DZA,Argelia,0.350352637546052,DZA,Argelia
-1997,EAZ,,100.0,,
+1997,EAZ,,100.0,EAZ,Zanzibar
 1997,ECU,Ecuador,20.0327979219046,ECU,Ecuador
 1997,EGY,Egipto,18.7520840754319,EGY,Egipto
 1997,ESP,España,16.50179627214,ESP,España
@@ -4957,7 +4957,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1997,VNM,Vietnam,20.6612407635219,VNM,Vietnam
 1997,VUT,Vanuatu,0.0,VUT,Vanuatu
 1997,WSM,Samoa,0.012709710218607,WSM,Samoa
-1997,YUG,,,,
+1997,YUG,,,YUG,Yugoslavia
 1997,ZAF,Sudáfrica,0.771702287703708,ZAF,Sudáfrica
 1997,ZMB,Zambia,5.69332319685286,ZMB,Zambia
 1997,ZWE,Zimbabwe,0.238915044620898,ZWE,Zimbabwe
@@ -5006,7 +5006,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1998,DNK,Dinamarca,2.63990045541523,DNK,Dinamarca
 1998,DOM,Rep. Dominicana,7.37637737910937,DOM,Rep. Dominicana
 1998,DZA,Argelia,0.30554955733103,DZA,Argelia
-1998,EAZ,,100.0,,
+1998,EAZ,,100.0,EAZ,Zanzibar
 1998,ECU,Ecuador,31.142526349068,ECU,Ecuador
 1998,EGY,Egipto,25.5481181977808,EGY,Egipto
 1998,ESP,España,20.085869208125,ESP,España
@@ -5144,7 +5144,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1998,VNM,Vietnam,21.4773702358311,VNM,Vietnam
 1998,VUT,Vanuatu,0.0,VUT,Vanuatu
 1998,WSM,Samoa,0.0,WSM,Samoa
-1998,YUG,,,,
+1998,YUG,,,YUG,Yugoslavia
 1998,ZAF,Sudáfrica,0.864754620777565,ZAF,Sudáfrica
 1998,ZMB,Zambia,4.98998164301055,ZMB,Zambia
 1998,ZWE,Zimbabwe,0.29688618780671,ZWE,Zimbabwe
@@ -5193,7 +5193,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1999,DNK,Dinamarca,2.93891371082108,DNK,Dinamarca
 1999,DOM,Rep. Dominicana,8.16059349770893,DOM,Rep. Dominicana
 1999,DZA,Argelia,0.243548402809574,DZA,Argelia
-1999,EAZ,,100.0,,
+1999,EAZ,,100.0,EAZ,Zanzibar
 1999,ECU,Ecuador,20.1038107899054,ECU,Ecuador
 1999,EGY,Egipto,34.8684474113249,EGY,Egipto
 1999,ESP,España,21.2017619872333,ESP,España
@@ -5331,7 +5331,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 1999,VNM,Vietnam,21.7939581523618,VNM,Vietnam
 1999,VUT,Vanuatu,0.0,VUT,Vanuatu
 1999,WSM,Samoa,0.0,WSM,Samoa
-1999,YUG,,,,
+1999,YUG,,,YUG,Yugoslavia
 1999,ZAF,Sudáfrica,0.650874946649595,ZAF,Sudáfrica
 1999,ZMB,Zambia,4.58288107533248,ZMB,Zambia
 1999,ZWE,Zimbabwe,1.56891897179076,ZWE,Zimbabwe
@@ -5381,7 +5381,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2000,DNK,Dinamarca,2.75684057939864,DNK,Dinamarca
 2000,DOM,Rep. Dominicana,16.1719939117199,DOM,Rep. Dominicana
 2000,DZA,Argelia,0.309221405169019,DZA,Argelia
-2000,EAZ,,73.5788418445571,,
+2000,EAZ,,73.5788418445571,EAZ,Zanzibar
 2000,ECU,Ecuador,9.32061416844025,ECU,Ecuador
 2000,EGY,Egipto,46.947714547603,EGY,Egipto
 2000,ERI,Eritrea,0.0471772291240761,ERI,Eritrea
@@ -5521,7 +5521,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2000,VNM,Vietnam,23.9610868034542,VNM,Vietnam
 2000,VUT,Vanuatu,0.0,VUT,Vanuatu
 2000,WSM,Samoa,0.0,WSM,Samoa
-2000,YUG,,,,
+2000,YUG,,,YUG,Yugoslavia
 2000,ZAF,Sudáfrica,0.404552688718304,ZAF,Sudáfrica
 2000,ZMB,Zambia,4.67727879449758,ZMB,Zambia
 2000,ZWE,Zimbabwe,2.21380566676616,ZWE,Zimbabwe
@@ -5571,7 +5571,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2001,DNK,Dinamarca,2.67152222723458,DNK,Dinamarca
 2001,DOM,Rep. Dominicana,16.6855774079677,DOM,Rep. Dominicana
 2001,DZA,Argelia,0.33859876791814,DZA,Argelia
-2001,EAZ,,79.9406255798283,,
+2001,EAZ,,79.9406255798283,EAZ,Zanzibar
 2001,ECU,Ecuador,8.92327812358121,ECU,Ecuador
 2001,EGY,Egipto,44.4413336133081,EGY,Egipto
 2001,ERI,Eritrea,0.157409489543512,ERI,Eritrea
@@ -5711,7 +5711,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2001,VNM,Vietnam,25.9078740265721,VNM,Vietnam
 2001,VUT,Vanuatu,0.0,VUT,Vanuatu
 2001,WSM,Samoa,0.0,WSM,Samoa
-2001,YUG,,,,
+2001,YUG,,,YUG,Yugoslavia
 2001,ZAF,Sudáfrica,0.345645477662508,ZAF,Sudáfrica
 2001,ZMB,Zambia,5.11196561863832,ZMB,Zambia
 2001,ZWE,Zimbabwe,2.51812831985189,ZWE,Zimbabwe
@@ -5762,7 +5762,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2002,DNK,Dinamarca,2.17217612356159,DNK,Dinamarca
 2002,DOM,Rep. Dominicana,17.0742253182801,DOM,Rep. Dominicana
 2002,DZA,Argelia,0.353113631373108,DZA,Argelia
-2002,EAZ,,84.6100884460283,,
+2002,EAZ,,84.6100884460283,EAZ,Zanzibar
 2002,ECU,Ecuador,19.5652776552715,ECU,Ecuador
 2002,EGY,Egipto,46.9513724345225,EGY,Egipto
 2002,ERI,Eritrea,0.216037615961367,ERI,Eritrea
@@ -5899,7 +5899,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2002,VNM,Vietnam,28.4864671220274,VNM,Vietnam
 2002,VUT,Vanuatu,0.0,VUT,Vanuatu
 2002,WSM,Samoa,0.0,WSM,Samoa
-2002,YUG,,,,
+2002,YUG,,,YUG,Yugoslavia
 2002,ZAF,Sudáfrica,0.48658541500224,ZAF,Sudáfrica
 2002,ZMB,Zambia,5.15079709419395,ZMB,Zambia
 2002,ZWE,Zimbabwe,2.41528363306473,ZWE,Zimbabwe
@@ -5950,7 +5950,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2003,DNK,Dinamarca,3.53341883436094,DNK,Dinamarca
 2003,DOM,Rep. Dominicana,9.7001147647323,DOM,Rep. Dominicana
 2003,DZA,Argelia,0.2949581258488,DZA,Argelia
-2003,EAZ,,81.9401033775184,,
+2003,EAZ,,81.9401033775184,EAZ,Zanzibar
 2003,ECU,Ecuador,19.2557052893671,ECU,Ecuador
 2003,EGY,Egipto,50.8020609262757,EGY,Egipto
 2003,ERI,Eritrea,0.327819997019818,ERI,Eritrea
@@ -6089,7 +6089,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2003,VNM,Vietnam,33.9148878745896,VNM,Vietnam
 2003,VUT,Vanuatu,0.0,VUT,Vanuatu
 2003,WSM,Samoa,0.0,WSM,Samoa
-2003,YUG,,,,
+2003,YUG,,,YUG,Yugoslavia
 2003,ZAF,Sudáfrica,0.751408178990391,ZAF,Sudáfrica
 2003,ZMB,Zambia,4.55327155747987,ZMB,Zambia
 2003,ZWE,Zimbabwe,3.04748323884219,ZWE,Zimbabwe
@@ -6140,7 +6140,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2004,DNK,Dinamarca,3.77745034894698,DNK,Dinamarca
 2004,DOM,Rep. Dominicana,12.3281760463539,DOM,Rep. Dominicana
 2004,DZA,Argelia,0.513808831549616,DZA,Argelia
-2004,EAZ,,75.3660276041448,,
+2004,EAZ,,75.3660276041448,EAZ,Zanzibar
 2004,ECU,Ecuador,23.3480933382319,ECU,Ecuador
 2004,EGY,Egipto,54.5108262141197,EGY,Egipto
 2004,ERI,Eritrea,0.0809716599190283,ERI,Eritrea
@@ -6279,7 +6279,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2004,VNM,Vietnam,38.4727825360867,VNM,Vietnam
 2004,VUT,Vanuatu,0.000469952130206,VUT,Vanuatu
 2004,WSM,Samoa,0.0,WSM,Samoa
-2004,YUG,,,,
+2004,YUG,,,YUG,Yugoslavia
 2004,ZAF,Sudáfrica,0.624421225287696,ZAF,Sudáfrica
 2004,ZMB,Zambia,5.16617441004808,ZMB,Zambia
 2004,ZWE,Zimbabwe,4.07789387976659,ZWE,Zimbabwe
@@ -6330,7 +6330,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2005,DNK,Dinamarca,4.10821284527332,DNK,Dinamarca
 2005,DOM,Rep. Dominicana,8.05060379528465,DOM,Rep. Dominicana
 2005,DZA,Argelia,0.290614341343918,DZA,Argelia
-2005,EAZ,,76.030155943406,,
+2005,EAZ,,76.030155943406,EAZ,Zanzibar
 2005,ECU,Ecuador,22.9807164453378,ECU,Ecuador
 2005,EGY,Egipto,60.6934427224947,EGY,Egipto
 2005,ERI,Eritrea,0.0,ERI,Eritrea
@@ -6470,7 +6470,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2005,VUT,Vanuatu,0.0004356273469423,VUT,Vanuatu
 2005,WSM,Samoa,0.0,WSM,Samoa
 2005,YEM,Yemen,0.159142306725856,YEM,Yemen
-2005,YUG,,,,
+2005,YUG,,,YUG,Yugoslavia
 2005,ZAF,Sudáfrica,0.688180227338791,ZAF,Sudáfrica
 2005,ZMB,Zambia,5.15785553978845,ZMB,Zambia
 2005,ZWE,Zimbabwe,3.04024496937883,ZWE,Zimbabwe
@@ -6522,7 +6522,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2006,DNK,Dinamarca,4.10958449965687,DNK,Dinamarca
 2006,DOM,Rep. Dominicana,7.03214695752009,DOM,Rep. Dominicana
 2006,DZA,Argelia,0.197190311930425,DZA,Argelia
-2006,EAZ,,75.8662950443772,,
+2006,EAZ,,75.8662950443772,EAZ,Zanzibar
 2006,ECU,Ecuador,26.5542207914219,ECU,Ecuador
 2006,EGY,Egipto,61.2848572237814,EGY,Egipto
 2006,ERI,Eritrea,0.0,ERI,Eritrea
@@ -6666,7 +6666,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2006,VUT,Vanuatu,0.0148251974446751,VUT,Vanuatu
 2006,WSM,Samoa,0.0,WSM,Samoa
 2006,YEM,Yemen,0.130457470864498,YEM,Yemen
-2006,YUG,,,,
+2006,YUG,,,YUG,Yugoslavia
 2006,ZAF,Sudáfrica,0.915862613022635,ZAF,Sudáfrica
 2006,ZMB,Zambia,4.95007173328519,ZMB,Zambia
 2006,ZWE,Zimbabwe,2.66317258423615,ZWE,Zimbabwe
@@ -6719,7 +6719,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2007,DNK,Dinamarca,4.55525334650646,DNK,Dinamarca
 2007,DOM,Rep. Dominicana,7.30272499830955,DOM,Rep. Dominicana
 2007,DZA,Argelia,0.274078041902012,DZA,Argelia
-2007,EAZ,,78.2532509453103,,
+2007,EAZ,,78.2532509453103,EAZ,Zanzibar
 2007,ECU,Ecuador,29.488952419708,ECU,Ecuador
 2007,EGY,Egipto,63.0467218514139,EGY,Egipto
 2007,ERI,Eritrea,0.0,ERI,Eritrea
@@ -6863,7 +6863,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2007,VUT,Vanuatu,0.0145044032560982,VUT,Vanuatu
 2007,WSM,Samoa,0.0212856534695615,WSM,Samoa
 2007,YEM,Yemen,0.166466906379012,YEM,Yemen
-2007,YUG,,,,
+2007,YUG,,,YUG,Yugoslavia
 2007,ZAF,Sudáfrica,0.775128082771483,ZAF,Sudáfrica
 2007,ZMB,Zambia,5.03414065779666,ZMB,Zambia
 2007,ZWE,Zimbabwe,3.28862522568997,ZWE,Zimbabwe
@@ -6916,7 +6916,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2008,DNK,Dinamarca,4.96332484690016,DNK,Dinamarca
 2008,DOM,Rep. Dominicana,6.56056372251245,DOM,Rep. Dominicana
 2008,DZA,Argelia,1.96263058224127,DZA,Argelia
-2008,EAZ,,81.490346499143,,
+2008,EAZ,,81.490346499143,EAZ,Zanzibar
 2008,ECU,Ecuador,25.5191199673538,ECU,Ecuador
 2008,EGY,Egipto,64.9847646220755,EGY,Egipto
 2008,ERI,Eritrea,0.0,ERI,Eritrea
@@ -7060,7 +7060,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2008,VUT,Vanuatu,0.0231702725403308,VUT,Vanuatu
 2008,WSM,Samoa,0.0215796288303841,WSM,Samoa
 2008,YEM,Yemen,0.113454149396424,YEM,Yemen
-2008,YUG,,,,
+2008,YUG,,,YUG,Yugoslavia
 2008,ZAF,Sudáfrica,0.77273627897761,ZAF,Sudáfrica
 2008,ZMB,Zambia,4.98052825390097,ZMB,Zambia
 2008,ZWE,Zimbabwe,5.34794208093192,ZWE,Zimbabwe
@@ -7113,7 +7113,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2009,DNK,Dinamarca,4.32170754342818,DNK,Dinamarca
 2009,DOM,Rep. Dominicana,7.95447196533661,DOM,Rep. Dominicana
 2009,DZA,Argelia,1.66479000899429,DZA,Argelia
-2009,EAZ,,80.1727022130228,,
+2009,EAZ,,80.1727022130228,EAZ,Zanzibar
 2009,ECU,Ecuador,30.5598335705195,ECU,Ecuador
 2009,EGY,Egipto,64.5527587888615,EGY,Egipto
 2009,ERI,Eritrea,0.0,ERI,Eritrea
@@ -7259,7 +7259,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2009,VUT,Vanuatu,0.0244054613777763,VUT,Vanuatu
 2009,WSM,Samoa,0.0376392652815417,WSM,Samoa
 2009,YEM,Yemen,0.0834478423169572,YEM,Yemen
-2009,YUG,,,,
+2009,YUG,,,YUG,Yugoslavia
 2009,ZAF,Sudáfrica,0.900379887298897,ZAF,Sudáfrica
 2009,ZMB,Zambia,6.21365323358368,ZMB,Zambia
 2009,ZWE,Zimbabwe,6.66890957347389,ZWE,Zimbabwe
@@ -7313,7 +7313,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2010,DNK,Dinamarca,4.18564235002268,DNK,Dinamarca
 2010,DOM,Rep. Dominicana,8.11667723525682,DOM,Rep. Dominicana
 2010,DZA,Argelia,1.8469768492909,DZA,Argelia
-2010,EAZ,,82.9694988962326,,
+2010,EAZ,,82.9694988962326,EAZ,Zanzibar
 2010,ECU,Ecuador,40.5475629606414,ECU,Ecuador
 2010,EGY,Egipto,70.4773546802371,EGY,Egipto
 2010,ERI,Eritrea,0.0,ERI,Eritrea
@@ -7459,7 +7459,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2010,VUT,Vanuatu,0.103109058796831,VUT,Vanuatu
 2010,WSM,Samoa,0.0389256520046711,WSM,Samoa
 2010,YEM,Yemen,0.0914572803043698,YEM,Yemen
-2010,YUG,,,,
+2010,YUG,,,YUG,Yugoslavia
 2010,ZAF,Sudáfrica,0.742723757146819,ZAF,Sudáfrica
 2010,ZMB,Zambia,9.32039890220374,ZMB,Zambia
 2010,ZWE,Zimbabwe,5.42627218466351,ZWE,Zimbabwe
@@ -7515,7 +7515,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2011,DNK,Dinamarca,4.77439336439343,DNK,Dinamarca
 2011,DOM,Rep. Dominicana,13.2973026515363,DOM,Rep. Dominicana
 2011,DZA,Argelia,2.15813607893783,DZA,Argelia
-2011,EAZ,,81.9316775259649,,
+2011,EAZ,,81.9316775259649,EAZ,Zanzibar
 2011,ECU,Ecuador,37.8379831275695,ECU,Ecuador
 2011,EGY,Egipto,72.4444362875548,EGY,Egipto
 2011,ERI,Eritrea,0.0,ERI,Eritrea
@@ -7662,7 +7662,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2011,VUT,Vanuatu,0.0960040422754642,VUT,Vanuatu
 2011,WSM,Samoa,0.0436414419132408,WSM,Samoa
 2011,YEM,Yemen,0.0972693302091635,YEM,Yemen
-2011,YUG,,,,
+2011,YUG,,,YUG,Yugoslavia
 2011,ZAF,Sudáfrica,0.919665926267966,ZAF,Sudáfrica
 2011,ZMB,Zambia,8.52314117818464,ZMB,Zambia
 2011,ZWE,Zimbabwe,12.4226732890576,ZWE,Zimbabwe
@@ -7716,7 +7716,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2012,DNK,Dinamarca,6.43600935018367,DNK,Dinamarca
 2012,DOM,Rep. Dominicana,7.0216155241536,DOM,Rep. Dominicana
 2012,DZA,Argelia,2.44390916137016,DZA,Argelia
-2012,EAZ,,83.5026591765382,,
+2012,EAZ,,83.5026591765382,EAZ,Zanzibar
 2012,ECU,Ecuador,39.131705589568,ECU,Ecuador
 2012,EGY,Egipto,74.1804683566917,EGY,Egipto
 2012,ERI,Eritrea,0.0,ERI,Eritrea
@@ -7865,7 +7865,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2012,VUT,Vanuatu,0.0893949542810989,VUT,Vanuatu
 2012,WSM,Samoa,0.0384438979839351,WSM,Samoa
 2012,YEM,Yemen,0.0440111817449012,YEM,Yemen
-2012,YUG,,,,
+2012,YUG,,,YUG,Yugoslavia
 2012,ZAF,Sudáfrica,0.744470732125155,ZAF,Sudáfrica
 2012,ZMB,Zambia,11.2007037091336,ZMB,Zambia
 2012,ZWE,Zimbabwe,12.9336398418159,ZWE,Zimbabwe
@@ -7921,7 +7921,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2013,DNK,Dinamarca,5.33954736081311,DNK,Dinamarca
 2013,DOM,Rep. Dominicana,10.6681571832055,DOM,Rep. Dominicana
 2013,DZA,Argelia,2.12546426685008,DZA,Argelia
-2013,EAZ,,78.2426308246833,,
+2013,EAZ,,78.2426308246833,EAZ,Zanzibar
 2013,ECU,Ecuador,39.5028363003662,ECU,Ecuador
 2013,EGY,Egipto,75.4635881345951,EGY,Egipto
 2013,ERI,Eritrea,0.0,ERI,Eritrea
@@ -8070,7 +8070,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2013,VUT,Vanuatu,0.094452377825635,VUT,Vanuatu
 2013,WSM,Samoa,0.0331268523920226,WSM,Samoa
 2013,YEM,Yemen,0.0013112691264228,YEM,Yemen
-2013,YUG,,,,
+2013,YUG,,,YUG,Yugoslavia
 2013,ZAF,Sudáfrica,1.29233162890692,ZAF,Sudáfrica
 2013,ZMB,Zambia,13.2122326072504,ZMB,Zambia
 2013,ZWE,Zimbabwe,12.7091358774377,ZWE,Zimbabwe
@@ -8126,7 +8126,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2014,DNK,Dinamarca,4.40952786956225,DNK,Dinamarca
 2014,DOM,Rep. Dominicana,13.658834327955,DOM,Rep. Dominicana
 2014,DZA,Argelia,2.47583437487686,DZA,Argelia
-2014,EAZ,,80.1859636997958,,
+2014,EAZ,,80.1859636997958,EAZ,Zanzibar
 2014,ECU,Ecuador,35.9525435635257,ECU,Ecuador
 2014,EGY,Egipto,76.7328418379674,EGY,Egipto
 2014,ERI,Eritrea,0.0,ERI,Eritrea
@@ -8276,7 +8276,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2014,VUT,Vanuatu,0.0928292413608034,VUT,Vanuatu
 2014,WSM,Samoa,0.073585425375885,WSM,Samoa
 2014,YEM,Yemen,0.0014005276497257,YEM,Yemen
-2014,YUG,,,,
+2014,YUG,,,YUG,Yugoslavia
 2014,ZAF,Sudáfrica,0.97926751150822,ZAF,Sudáfrica
 2014,ZMB,Zambia,12.7908982353722,ZMB,Zambia
 2014,ZWE,Zimbabwe,11.8536540648153,ZWE,Zimbabwe
@@ -8334,7 +8334,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2015,DNK,Dinamarca,3.96381643111636,DNK,Dinamarca
 2015,DOM,Rep. Dominicana,16.1439538742564,DOM,Rep. Dominicana
 2015,DZA,Argelia,1.37163987918195,DZA,Argelia
-2015,EAZ,,83.0619795707796,,
+2015,EAZ,,83.0619795707796,EAZ,Zanzibar
 2015,ECU,Ecuador,40.2852618667007,ECU,Ecuador
 2015,EGY,Egipto,77.3452477510692,EGY,Egipto
 2015,ERI,Eritrea,0.0,ERI,Eritrea
@@ -8486,7 +8486,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2015,VUT,Vanuatu,0.0139007091891059,VUT,Vanuatu
 2015,WSM,Samoa,0.153075164151311,WSM,Samoa
 2015,YEM,Yemen,0.0028182828116025,YEM,Yemen
-2015,YUG,,,,
+2015,YUG,,,YUG,Yugoslavia
 2015,ZAF,Sudáfrica,1.05375980705361,ZAF,Sudáfrica
 2015,ZMB,Zambia,14.5166641147349,ZMB,Zambia
 2015,ZWE,Zimbabwe,13.1123539072045,ZWE,Zimbabwe
@@ -8544,7 +8544,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2016,DNK,Dinamarca,5.14280457427536,DNK,Dinamarca
 2016,DOM,Rep. Dominicana,12.5181550593692,DOM,Rep. Dominicana
 2016,DZA,Argelia,1.92183610624367,DZA,Argelia
-2016,EAZ,,76.6339340206356,,
+2016,EAZ,,76.6339340206356,EAZ,Zanzibar
 2016,ECU,Ecuador,38.8940649572113,ECU,Ecuador
 2016,EGY,Egipto,80.3305759152733,EGY,Egipto
 2016,ERI,Eritrea,0.0906584340749999,ERI,Eritrea
@@ -8696,7 +8696,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2016,VUT,Vanuatu,0.0336563994751205,VUT,Vanuatu
 2016,WSM,Samoa,0.136054421768707,WSM,Samoa
 2016,YEM,Yemen,0.0032865332963848,YEM,Yemen
-2016,YUG,,,,
+2016,YUG,,,YUG,Yugoslavia
 2016,ZAF,Sudáfrica,1.21143178637722,ZAF,Sudáfrica
 2016,ZMB,Zambia,9.55967939667801,ZMB,Zambia
 2016,ZWE,Zimbabwe,13.0824826501346,ZWE,Zimbabwe
@@ -8752,7 +8752,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2017,DNK,Dinamarca,3.98073434134441,DNK,Dinamarca
 2017,DOM,Rep. Dominicana,14.3708565346338,DOM,Rep. Dominicana
 2017,DZA,Argelia,4.1233215686479,DZA,Argelia
-2017,EAZ,,75.8014739309321,,
+2017,EAZ,,75.8014739309321,EAZ,Zanzibar
 2017,ECU,Ecuador,43.7679187170447,ECU,Ecuador
 2017,EGY,Egipto,79.1340630721653,EGY,Egipto
 2017,ERI,Eritrea,0.0762850017837976,ERI,Eritrea
@@ -8958,7 +8958,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2018,DNK,Dinamarca,4.41514712917936,DNK,Dinamarca
 2018,DOM,Rep. Dominicana,17.7737663579639,DOM,Rep. Dominicana
 2018,DZA,Argelia,4.25111788305312,DZA,Argelia
-2018,EAZ,,74.6298119514708,,
+2018,EAZ,,74.6298119514708,EAZ,Zanzibar
 2018,ECU,Ecuador,49.3086861984864,ECU,Ecuador
 2018,EGY,Egipto,81.0275591011412,EGY,Egipto
 2018,ERI,Eritrea,0.0530856756797886,ERI,Eritrea
@@ -9164,7 +9164,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2019,DNK,Dinamarca,5.92678301110948,DNK,Dinamarca
 2019,DOM,Rep. Dominicana,16.457804217961,DOM,Rep. Dominicana
 2019,DZA,Argelia,4.58822803805537,DZA,Argelia
-2019,EAZ,,72.4636377267956,,
+2019,EAZ,,72.4636377267956,EAZ,Zanzibar
 2019,ECU,Ecuador,53.3623132296606,ECU,Ecuador
 2019,EGY,Egipto,80.5274727025213,EGY,Egipto
 2019,ERI,Eritrea,0.0734701224563266,ERI,Eritrea
@@ -9370,7 +9370,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2020,DNK,Dinamarca,5.49676135164001,DNK,Dinamarca
 2020,DOM,Rep. Dominicana,19.6065766059816,DOM,Rep. Dominicana
 2020,DZA,Argelia,7.06387692189341,DZA,Argelia
-2020,EAZ,,69.7512145556155,,
+2020,EAZ,,69.7512145556155,EAZ,Zanzibar
 2020,ECU,Ecuador,54.8992570275773,ECU,Ecuador
 2020,EGY,Egipto,79.1759591759592,EGY,Egipto
 2020,ERI,Eritrea,0.106837606837607,ERI,Eritrea
@@ -9576,7 +9576,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2021,DNK,Dinamarca,8.00670876601297,DNK,Dinamarca
 2021,DOM,Rep. Dominicana,17.509536861077,DOM,Rep. Dominicana
 2021,DZA,Argelia,5.69103035543572,DZA,Argelia
-2021,EAZ,,74.1080286218858,,
+2021,EAZ,,74.1080286218858,EAZ,Zanzibar
 2021,ECU,Ecuador,51.1608702829411,ECU,Ecuador
 2021,EGY,Egipto,78.7323359304889,EGY,Egipto
 2021,ERI,Eritrea,0.267887698797787,ERI,Eritrea
@@ -9782,7 +9782,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2022,DNK,Dinamarca,7.64364333857003,DNK,Dinamarca
 2022,DOM,Rep. Dominicana,17.2334558823529,DOM,Rep. Dominicana
 2022,DZA,Argelia,6.05595478964627,DZA,Argelia
-2022,EAZ,,75.7331843210628,,
+2022,EAZ,,75.7331843210628,EAZ,Zanzibar
 2022,ECU,Ecuador,61.9997785758472,ECU,Ecuador
 2022,EGY,Egipto,77.9087104611149,EGY,Egipto
 2022,ERI,Eritrea,0.250852270589327,ERI,Eritrea
@@ -13628,7 +13628,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2017,SXM,San Martín (parte holandesa),0.0,SXM,San Martín (parte holandesa)
 2017,TKL,Tokelau,0.0,TKL,Tokelau
 2017,WLF,Wallis y Futuna,0.0,WLF,Wallis y Futuna
-2017,YUG,,,,
+2017,YUG,,,YUG,Yugoslavia
 2018,AIA,Anguila,0.0,AIA,Anguila
 2018,AND,Andorra,,AND,Andorra
 2018,ATF,Tierras Australes Francesas,0.0,ATF,Tierras Australes Francesas
@@ -13662,7 +13662,7 @@ anio,iso3,pais_nombre,share_acuicola,geocodigoFundar,geonombreFundar
 2018,SXM,San Martín (parte holandesa),0.0,SXM,San Martín (parte holandesa)
 2018,TKL,Tokelau,0.0,TKL,Tokelau
 2018,WLF,Wallis y Futuna,0.0,WLF,Wallis y Futuna
-2018,YUG,,,,
+2018,YUG,,,YUG,Yugoslavia
 2019,AIA,Anguila,0.0,AIA,Anguila
 2019,AND,Andorra,,AND,Andorra
 2019,ATF,Tierras Australes Francesas,0.0,ATF,Tierras Australes Francesas
